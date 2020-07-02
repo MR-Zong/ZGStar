@@ -1,0 +1,22 @@
+{
+  "name": "ZGStar",
+  "version": "0.1.0",
+  "summary": "A short description of ZGStar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MR-Zong/ZGStar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MR-Zong": "540682674@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/MR-Zong/ZGStar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZGStar/Classes/**/*"
+}

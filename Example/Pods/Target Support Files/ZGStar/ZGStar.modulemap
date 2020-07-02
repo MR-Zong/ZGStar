@@ -1,0 +1,6 @@
+framework module ZGStar {
+  umbrella header "ZGStar-umbrella.h"
+
+  export *
+  module * { export * }
+}
